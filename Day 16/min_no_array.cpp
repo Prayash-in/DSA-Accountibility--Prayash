@@ -5,7 +5,7 @@ int main(){
 int arr[5]={5,2,3,11,8};
 int min=arr[0];
 
-for(int i=0;i<5;i++){
+for(int i=1;i<5;i++){
         if(arr[i]<min){
         min=arr[i];
     }   
